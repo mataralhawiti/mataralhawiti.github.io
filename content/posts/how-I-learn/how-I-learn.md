@@ -1,1 +1,1 @@
-# WIP
+# How I learn (WIP)
