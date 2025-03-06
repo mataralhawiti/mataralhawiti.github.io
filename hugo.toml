@@ -15,7 +15,7 @@ description = "A Personal Blog"
 
 # Appearance settings
 theme = 'auto'
-colorPalette = 'default'
+colorPalette = 'eink'
 hideHeader = false
 
 # Intro on main page, content is markdown
