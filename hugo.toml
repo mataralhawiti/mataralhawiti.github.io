@@ -21,7 +21,12 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-My name is **Matar**, I am a data engineer. I'm interested in distributed systems, cloud computing, data engineering, ML/AI and MLOps.
+My name is **Matar**, I am a data engineer with a profound interest in distributed systems, open source, cloud computing, Streaming data processing, data engineering, ML/AI, MLOp sand and running data-workloads on Kubernetes.
+
+Seeking opportunities to work on cloud-based and data-driven products that will utilize my technical and analytical skills, allowing me to produce and deliver robust and creative solutions.
+
+**Core competencies** :
+Lifelong learning, Cloud computing, Data engineering, Kubernetes/OpenShift, Streaming data processing, Batch data processing, ETL/ELT, Golang, Python, Flask, Apache Spark, Apache Kafka, Apache Airflow, Apache Beam, MS SQL server, SQL, NoSQL.
 
 I love rock music 🎸, video games 🎮, movies 🎥.
 
