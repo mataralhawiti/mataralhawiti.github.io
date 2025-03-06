@@ -1,10 +1,7 @@
 baseURL = 'https://matar.oneß'
 languageCode = 'en-us'
-title = 'Matar Blog'
+title = "Matar's Blog"
 theme = 'typo'
-
-# Google analytics code
-googleAnalytics = "G-xxxxxxxxx"
 
 [taxonomies]
 tag = 'tags'
